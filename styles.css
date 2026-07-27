@@ -1,9 +1,46 @@
 h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 400%;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
 }
 
 pre {
-    font-size: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+i {
+    font-size: 70%;
+}
+
+#Hobbies {
+    scroll-margin-top: 340px;
+}
+
+#Games {
+    scroll-margin-top: 340px;
+}
+
+#TV {
+    scroll-margin-top: 340px;
+}
+
+#Music {
+    scroll-margin-top: 340px;
+}
+
+#Reviews {
+    scroll-margin-top: 340px;
+}
+
+
+#Header {
+  position: fixed;
+  margin-top: -40px;
 }
